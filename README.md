@@ -1,3 +1,3 @@
 # DigitalSkola
 
-Study Independent about Computer Science
+Study Independent about Data Science
